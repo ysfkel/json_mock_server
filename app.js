@@ -11,7 +11,6 @@ server.use(router); // Mount router on '/'
 
 var env = process.env.NODE_ENV;
 
-console.log('environ', env)
 
 server.listen(5000, function() {
     console.log('started..')
