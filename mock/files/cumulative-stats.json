@@ -1,0 +1,15 @@
+{
+    "cumulative": {
+        "result": true,
+        "count": 1,
+        "data": [{
+            "calls": 13,
+            "emails": 2,
+            "sms": 0,
+            "views": 40,
+            "savedSearches": 0,
+            "favs": 11
+        }],
+        "total": 1
+    }
+}

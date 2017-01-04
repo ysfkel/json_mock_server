@@ -1,0 +1,157 @@
+{
+	"cumulative": {
+		"result": true,
+		"count": 1,
+		"data": [
+			{
+				"calls": 13,
+				"emails": 2,
+				"sms": 0,
+				"views": 40,
+				"savedSearches": 0,
+				"favs": 11
+			}
+		],
+		"total": 1
+	},
+	"reports": [
+		{
+			"FileName": "spf.feed.xml",
+			"DateProcessed": "json-server",
+			"Deleted": "typicode",
+			"Inserted": 1,
+			"Sheilded": 1,
+			"Updated": 345,
+			"TotalAds": 65
+		},
+		{
+			"FileName": "spf.feed.xml",
+			"DateProcessed": "json-server",
+			"Deleted": "typicode",
+			"Inserted": 1,
+			"Sheilded": 1,
+			"Updated": 345,
+			"TotalAds": 65
+		},
+		{
+			"FileName": "spf.feed.xml",
+			"DateProcessed": "json-server",
+			"Deleted": "typicode",
+			"Inserted": 1,
+			"Sheilded": 1,
+			"Updated": 345,
+			"TotalAds": 65
+		},
+		{
+			"FileName": "spf.feed.xml",
+			"DateProcessed": "json-server",
+			"Deleted": "typicode",
+			"Inserted": 1,
+			"Sheilded": 1,
+			"Updated": 345,
+			"TotalAds": 65
+		},
+		{
+			"FileName": "spf.feed.xml",
+			"DateProcessed": "json-server",
+			"Deleted": "typicode",
+			"Inserted": 1,
+			"Sheilded": 1,
+			"Updated": 345,
+			"TotalAds": 65
+		}
+	],
+	"recordresponse": [
+		{
+			"company": "xxx",
+			"vertical": "property",
+			"pageViews": "265",
+			"call": 987,
+			"sms": 3876,
+			"email": 276,
+			"share": 76,
+			"totalClicks": 287,
+			"ctr": 87287
+		},
+		{
+			"company": "xxx",
+			"vertical": "property",
+			"pageViews": "265",
+			"call": 987,
+			"sms": 3876,
+			"email": 276,
+			"share": 76,
+			"totalClicks": 287,
+			"ctr": 87287
+		},
+		{
+			"company": "xxx",
+			"vertical": "property",
+			"pageViews": "265",
+			"call": 987,
+			"sms": 3876,
+			"email": 276,
+			"share": 76,
+			"totalClicks": 287,
+			"ctr": 87287
+		},
+		{
+			"company": "xxx",
+			"vertical": "property",
+			"pageViews": "265",
+			"call": 987,
+			"sms": 3876,
+			"email": 276,
+			"share": 76,
+			"totalClicks": 287,
+			"ctr": 87287
+		},
+		{
+			"company": "xxx",
+			"vertical": "property",
+			"pageViews": "265",
+			"call": 987,
+			"sms": 3876,
+			"email": 276,
+			"share": 76,
+			"totalClicks": 287,
+			"ctr": 87287
+		}
+	],
+	"revenue": [
+		{
+			"account": "y@g.com",
+			"role": "employer",
+			"vertical": "jobs",
+			"category": "sale",
+			"orderDate": "1/1/2017",
+			"orderTime": "6:31",
+			"adID": "1",
+			"transactionId": "13",
+			"productname": "Job vacancy",
+			"description": "desc",
+			"productid": "22",
+			"package": "1",
+			"unitprice": "23",
+			"totlprice": "234",
+			"discounts": "234"
+		},
+		{
+			"account": "y@g.com",
+			"role": "broker",
+			"vertical": "property",
+			"category": "sale",
+			"orderDate": "1/1/2017",
+			"orderTime": "6:31",
+			"adID": "1",
+			"transactionId": "13",
+			"productname": "villa for rent",
+			"description": "desc",
+			"productid": "22",
+			"package": "1",
+			"unitprice": "23",
+			"totlprice": "234",
+			"discounts": "234"
+		}
+	]
+}

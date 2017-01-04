@@ -1,0 +1,57 @@
+{
+    "recordresponse": [{
+            "company": "xxx",
+            "vertical": "property",
+            "pageViews": "265",
+            "call": 987,
+            "sms": 3876,
+            "email": 276,
+            "share": 76,
+            "totalClicks": 287,
+            "ctr": 87287
+        },
+        {
+            "company": "xxx",
+            "vertical": "property",
+            "pageViews": "265",
+            "call": 987,
+            "sms": 3876,
+            "email": 276,
+            "share": 76,
+            "totalClicks": 287,
+            "ctr": 87287
+        },
+        {
+            "company": "xxx",
+            "vertical": "property",
+            "pageViews": "265",
+            "call": 987,
+            "sms": 3876,
+            "email": 276,
+            "share": 76,
+            "totalClicks": 287,
+            "ctr": 87287
+        },
+        {
+            "company": "xxx",
+            "vertical": "property",
+            "pageViews": "265",
+            "call": 987,
+            "sms": 3876,
+            "email": 276,
+            "share": 76,
+            "totalClicks": 287,
+            "ctr": 87287
+        }, {
+            "company": "xxx",
+            "vertical": "property",
+            "pageViews": "265",
+            "call": 987,
+            "sms": 3876,
+            "email": 276,
+            "share": 76,
+            "totalClicks": 287,
+            "ctr": 87287
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "revenue": [{
+            "account": "y@g.com",
+            "role": "employer",
+            "vertical": "jobs",
+            "category": "sale",
+            "orderDate": "1/1/2017",
+            "orderTime": "6:31",
+            "adID": "1",
+            "transactionId": "13",
+            "productname": "Job vacancy",
+            "description": "desc",
+            "productid": "22",
+            "package": "1",
+            "unitprice": "23",
+            "totlprice": "234",
+            "discounts": "234"
+        },
+        {
+            "account": "y@g.com",
+            "role": "broker",
+            "vertical": "property",
+            "category": "sale",
+            "orderDate": "1/1/2017",
+            "orderTime": "6:31",
+            "adID": "1",
+            "transactionId": "13",
+            "productname": "villa for rent",
+            "description": "desc",
+            "productid": "22",
+            "package": "1",
+            "unitprice": "23",
+            "totlprice": "234",
+            "discounts": "234"
+        }
+    ]
+}
